@@ -1,3 +1,5 @@
+package Tema8;
+
 public class Persona {
     private int edad;
     private String nombre;
